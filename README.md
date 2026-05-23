@@ -1,4 +1,4 @@
-🚲 Bike Sharing Demand Forecasting
+# Bike Sharing Demand Forecasting
 
 This project focuses on predicting hourly bike rental demand using time series forecasting techniques. It compares traditional statistical models and deep learning architectures to evaluate predictive performance.
 
