@@ -36,10 +36,11 @@ Deep Learning Models:
 ---
 
 ## Feature Engineering
-24-hour sliding window
-Rolling mean, std, median, MAD
-MinMax normalization
-One-step ahead forecasting (shift = -1)
+
+- 24-hour sliding window
+- Rolling mean, std, median, MAD
+- MinMax normalization
+- One-step ahead forecasting (shift = -1)
 
 ---
 
@@ -62,7 +63,11 @@ All deep learning models use:
 
 ---
 
-🏆 Key Findings
+## Key Findings
 Classical models (ARIMA/SARIMAX) struggled with nonlinear patterns and volatility.
+
+
 Deep learning models significantly improved forecasting accuracy.
+
+
 GRU performed best overall due to its efficient gating mechanism and lower complexity.
